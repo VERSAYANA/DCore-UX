@@ -1,0 +1,3 @@
+There is a layout problem on footer on tablet size I made quickfix for it but this is obviously not the best way to fix this issue.
+
+Also, I think font-size for address is a bit too large

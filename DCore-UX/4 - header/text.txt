@@ -1,0 +1,3 @@
+I don't see any reason to hide the top navigation on desktop
+
+Also, I usually prefer to disable user-select on header title, users sometimes assume the title is a link and they click on it and it will select the title text(on mobile especially)

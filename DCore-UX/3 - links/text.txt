@@ -1,0 +1,1 @@
+I think it's more clear if links have text-decoration: underline on hover

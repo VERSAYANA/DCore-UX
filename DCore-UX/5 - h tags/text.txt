@@ -1,0 +1,11 @@
+Weird font-weight use for h tags.
+h1 : 300
+h2 : 300
+h3 : 400
+h4 : 700
+
+Also h1 is more transparent than the rest
+h1 : 0.54
+rest: 0.87
+
+This my personal opinion, I think bigger(more important) headers should be bloder and less transparent than smaller(less important) headers.
